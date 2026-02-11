@@ -1,0 +1,11 @@
+<?xml version='1.2.2' encoding='UTF-8'?>
+<gupdate xmlns='http://www.google.com/update2/response' protocol='2.0'>
+  <!-- 
+       ID: iephnnpfinamillghjiknlacddnhgkjb
+       Este arquivo controla a versao e o download da extensao.
+       O codebase DEVE ser um link publico direto para o arquivo .crx
+  -->
+  <app appid='nmljkaamkmbbloefiipeclhaocgoaaia'>
+    <updatecheck codebase='https://github.com/sergioabdala12g/ExtChromeP2/raw/refs/heads/main/dist.crx' version='1.2.2' />
+  </app>
+</gupdate>
